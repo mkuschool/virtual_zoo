@@ -1,5 +1,5 @@
 # virtual zoo organisation program v1
-# made by Matvei Kudinov
+# made by mku
 # computer science is pretty awesome
 # (=^・^=)
 
